@@ -1,0 +1,3 @@
+background: Black
+quantidade_de_patos: 2
+cor_dos_patos: Green
